@@ -1,0 +1,11 @@
+{
+    "name": "codacy-acme/test-php",
+    "description": "Dummy project pinned to PHP 8.4.26 to check whether Codacy (Trivy) flags CVE-2026-109618 / CVE-2026-109619",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "8.4.26"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
